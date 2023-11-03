@@ -10,7 +10,7 @@ My customized keyboard based on QMK. Only contains the keyboard source code.
 
 ## This Repo
 Contains only the QMK source code of my keyboard part.  
-`src/obscirite_86` should be put into `qmk_firmware/keyboards/csric/.`, in the QMK repo.  
+`src/obscirite_86` should be put into `qmk_firmware/keyboards/csric/.` in [QMK repo](https://github.com/qmk/qmk_firmware).  
 No pcb design source. I bought the pcb from a designer. I have no knowledge.
 
 ## Features
